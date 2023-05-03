@@ -1,2 +1,2 @@
-# proiect_aed
-# contine toate fisierele necesare pt a rula codul si a vedea rezultatele proiectului
+În acest proiect, am utilizat analiza datelor pentru a examina caracteristicile vinului alb și vinul roșu, cum ar fi aciditatea fixă, aciditatea volatilă, aciditatea citrică, zahărul rezidual, clorura, dioxidul de sulf liber, dioxidul de sulf total, densitatea, pH-ul, sulfații, alcoolul și calitatea. Scopul acestui proiect este de a înțelege relația dintre aceste caracteristici și calitatea vinului, precum și de a identifica eventualele diferențe între vinul alb și vinul roșu.
+Pentru a atinge acest scop, am utilizat diverse tehnici de analiză de date, cum ar fi descrierea statistică, analiza exploratorie de date și modelarea. 
